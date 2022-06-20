@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.amvlabs.androidkotlinapps.databinding.ActivityMainBinding
+import com.amvlabs.androidkotlinapps.emicalculator.MainActivityEmiCalculator
 import com.amvlabs.androidkotlinapps.meeshodemo.MainActivityMeesho
 import com.amvlabs.androidkotlinapps.messagesender.MainActivityMessageSender
 import com.amvlabs.androidkotlinapps.moviesapp.MainActivityMoviesApp
@@ -32,6 +33,10 @@ class MainActivity : AppCompatActivity(){
 
         bind.waRecover.setOnClickListener {
             startActivity(Intent(this,MainActivityWArecovery::class.java))
+        }
+
+        bind.loanCalculator.setOnClickListener {
+            startActivity(Intent(this,MainActivityEmiCalculator::class.java))
         }
     }
 }

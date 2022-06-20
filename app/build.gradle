@@ -103,4 +103,11 @@ dependencies {
     
     implementation group: 'commons-io', name: 'commons-io', version: '2.6'
 
+    //Emi Calculator
+
+    implementation 'com.github.blackfizz:eazegraph:1.2.5l@aar'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.4.1")
+    implementation 'androidx.core:core-splashscreen:1.0.0-rc01'
+
 }

@@ -24,4 +24,22 @@
     <string name="message_hint">Enter Message</string>
     <string name="send_media_btn">Send Media</string>
     <string name="heading_txt">Select Country code and enter Number</string>
+    <!-- TODO:Emi Calculator-->
+
+    <string name="loan_amount">LOAN AMOUNT</string>
+    <string name="tenure">TENURE(YEAR)</string>
+    <string name="interest_rate">INTEREST RATE</string>
+    <string name="interest_amount">INTEREST AMOUNT</string>
+    <string name="emi">Monthly Home Loan EMI</string>
+    <string name="principal">Principal Amount</string>
+    <string name="Total_amount">Total Amount Payable</string>
+    <string name="ir_start">0</string>
+    <string name="ir_end">15</string>
+    <string name="te_start">1</string>
+    <string name="te_end">30</string>
+    <string name="la_start">₹1Lac</string>
+    <string name="la_end">₹1cr</string>
+    <string name="for_all">₹0</string>
+    <string name="view_details">View Details</string>
+
 </resources>

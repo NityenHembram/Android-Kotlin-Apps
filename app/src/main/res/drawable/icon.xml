@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android">
+    <rotate android:pivotY="0"
+        android:pivotX="180"
+        android:toDegrees="@integer/material_motion_duration_long_1">
+        <bitmap android:src="@drawable/a"/>
+    </rotate>
+
+</animated-rotate>

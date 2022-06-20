@@ -14,8 +14,12 @@
         <!-- Customize your theme here. -->
     </style>
     <style name="Caption">
-
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">@color/colorCaption</item>
+    </style>
+
+    <style name="Theme.AndroidKotlinApps.NoActionbar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
 </resources>

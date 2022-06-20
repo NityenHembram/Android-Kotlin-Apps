@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".emicalculator.DetailActivity">
+
+
+
+        <LinearLayout
+            android:id="@+id/reew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:textAlignment="center"
+                android:background="@drawable/newstroke"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:text="year" />
+
+            <TextView
+                android:textAlignment="center"
+                android:background="@drawable/newstroke"
+                android:layout_width="5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Opening Balance" />
+
+            <TextView
+                android:textAlignment="center"
+                android:background="@drawable/newstroke"
+                android:layout_width="5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Emi*12" />
+
+            <TextView
+                android:background="@drawable/newstroke"
+                android:layout_width="5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Interest Paid Yearly" />
+
+            <TextView
+                android:background="@drawable/newstroke"
+                android:layout_width="5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Principal paid yearly" />
+
+            <TextView
+                android:background="@drawable/newstroke"
+                android:layout_width="5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:text="Closing Balance" />
+        </LinearLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_below="@+id/reew"
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/items" />
+</RelativeLayout>
