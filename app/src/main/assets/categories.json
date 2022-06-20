@@ -1,0 +1,34 @@
+{
+    "spansize": "1",
+    "title": "Category",
+    "categories": [
+        {
+            "image": "https://images.meesho.com/images/products/62961554/zfb37_512.webp",
+            "name": "Men"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/69181261/v7slz_512.webp",
+            "name": "Women"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/3145241/1_512.webp",
+            "name": "Kids"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/80752871/ivlf1_512.webp",
+            "name": "Footwear"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/25515256/a6300_512.webp",
+            "name": "Home decor"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/68495730/wc19h_512.webp",
+            "name": "Beauty"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/94659430/9wpph_512.webp",
+            "name": "Electronic"
+        }
+    ]
+}

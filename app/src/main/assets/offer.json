@@ -1,0 +1,15 @@
+{
+    "spansize": "1",
+    "title": "Offers",
+    "offers": [
+        {
+            "image": "https://images.meesho.com/images/marketing/1653635915603.jpg"
+        },
+        {
+            "image": "https://images.meesho.com/images/pow/download_banner_desktop.webp"
+        },
+        {
+            "image": "https://images.meesho.com/images/marketing/1653636684933.jpg"
+        }
+    ]
+}

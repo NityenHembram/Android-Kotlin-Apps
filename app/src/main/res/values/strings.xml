@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android Kotlin Apps</string>
+    <string name="user_name">Nityen Hembram</string>
+    <string name="menu_item_favorite">fevorite</string>
+    <string name="menu_item_notification">notification</string>
+    <string name="menu_item_cart">cart</string>
+    <string name="btm_title_account">account</string>
+    <string name="btm_title_community">Community</string>
+    <string name="btm_title_home">Home</string>
+    <string name="btm_title_category">Category</string>
+    <string name="btm_title_order">My Orders</string>
+    <string name="item_category_name">Categories</string>
+    <string name="item_product_name">Shirt</string>
+    <string name="item_produce_price">price 1100</string>
+    <string name="item_product_description">Free delivery</string>
+    <string name="item_product_rating">4.3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="search">Search</string>
+
+    <string name="number_hint">Enter number here</string>
+    <string name="send_btn">send</string>
+    <string name="message_hint">Enter Message</string>
+    <string name="send_media_btn">Send Media</string>
+    <string name="heading_txt">Select Country code and enter Number</string>
+</resources>

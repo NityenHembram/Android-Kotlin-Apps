@@ -1,0 +1,36 @@
+{
+    "spansize": "1",
+    "title": "Best Sellers",
+    "items": [
+        {
+            "image": "https://images.meesho.com/images/products/5524243/1_512.webp",
+            "item name": "Sarees",
+            "item price": "From 250"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/30950097/40234_512.webp",
+            "item name": "Kurtis",
+            "item price": "From 200"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/5572462/1_512.webp",
+            "item name": "Mans Ware",
+            "item price": "From 149"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/19079761/480d2_512.webp",
+            "item name": "Kitchen",
+            "item price": "From 30"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/80058220/wk9er_512.webp",
+            "item name": "Women Jewellery",
+            "item price": "From 100"
+        },
+        {
+            "image": "https://images.meesho.com/images/products/39018847/fdeoj_512.webp",
+            "item name": "Kids Wear",
+            "item price": "From 100"
+        }
+    ]
+}
